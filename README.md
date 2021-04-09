@@ -1,3 +1,6 @@
+# pub.dev上的版本默认http请求返回解码为拉丁，对中文解码为乱码，现在修改为默认utf8
+## 版本为4.1.3
+
 ![](https://raw.githubusercontent.com/jonataslaw/getx-community/master/get.png)
 
 **Languages: English (this file), [Indonesian](README.id-ID.md), [Urdu](README.ur-PK.md), [Chinese](README.zh-cn.md), [Brazilian Portuguese](README.pt-br.md), [Spanish](README-es.md), [Russian](README.ru.md), [Polish](README.pl.md), [Korean](README.ko-kr.md), [French](README-fr.md).**
